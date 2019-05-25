@@ -1,4 +1,4 @@
-#Online Inspection of Packed Cases
+# Online Inspection of Packed Cases
 
 Leaves of Crops are threshed and are packed into cases,these packed cases are then inspected for Conformity to approve in terms of:
 * Color
