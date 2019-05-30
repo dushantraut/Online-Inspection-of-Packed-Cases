@@ -5,7 +5,7 @@ Leaves of Crops are threshed and are packed into cases,these packed cases are th
 * Ripeness
 * Uniformity
 
-Using Machine Learnig and Image Processing three separate algorithms which imitate Color,Ripeness and Uniformity inspection while keeping the processing time for each of the algorithm under one minute are created.
+Using Machine Learnig and Image Processing three separate algorithms which imitate Color, Ripeness and Uniformity inspection while keeping the processing time for each of the algorithm under one minute are created.
 
 **First Calculate Moments**  
 
